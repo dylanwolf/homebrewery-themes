@@ -32,6 +32,7 @@ h4 + .block.descriptive {
   line-height: 12px !important;
   font-family: "Sorts Mill Goudy" !important;
   font-weight: bold;
+  width: auto;
 }
 
 /* Remove page background image */
