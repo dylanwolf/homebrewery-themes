@@ -9,3 +9,4 @@ Copy and paste the contents of a CSS file into a \<style\>...\</style\> tags at 
 ## Themes
 
 - **Ryuutama:** A plain theme I use for Ryuutama content.
+- **Neutral:** A plain theme I use for assorted other games (supplements to one-page RPGs, etc.)
