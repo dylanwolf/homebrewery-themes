@@ -80,3 +80,26 @@ h4 {
 .block.descriptive h5 {
   padding-top: 0.25em;
 }
+
+/* Monster block */
+
+.page .monster {
+  font-family: revert !important;
+}
+
+.page .monster.frame {
+  background-image: none;
+  background-color: #ffc;
+  border-image: none;
+  border: 1px solid #000;
+  padding: 1em;
+}
+
+.page .monster hr {
+  background-image: none;
+}
+
+.page .monster hr+table:first-of-type,
+.page .monster hr~:is(dl,p) {
+  color: #000;
+}
